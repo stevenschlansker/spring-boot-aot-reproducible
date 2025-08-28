@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash -e
 
 echo 'Build first run with tests'
 mvn clean install
